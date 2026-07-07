@@ -5,7 +5,7 @@
 **Full-Stack Developer building software that helps real businesses operate more efficiently.**
 
 Laravel · React · MySQL · Tailwind CSS  
-📍 Cairo, Egypt
+📍 Alexandria, Egypt
 
 [Email](mailto:ahmednoaman002@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ahmed-noaman-71b22320a/) • [Portfolio](#)
 
