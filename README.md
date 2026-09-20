@@ -65,18 +65,6 @@ My long-term goal is to build a software company focused on **business automatio
 
 ---
 
-# 💈 Other Projects
-
-### Barber Shop Management System
-
-A specialized management platform for barber shops focused on appointments, inventory, services, and daily operations.
-
-### Clinic Management Platform *(Planned)*
-
-A future SaaS product aimed at helping clinics and doctors manage appointments, patients, and business operations more efficiently.
-
----
-
 # 💡 How I Build Software
 
 - Keep business logic inside dedicated service classes.
